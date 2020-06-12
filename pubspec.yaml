@@ -1,6 +1,6 @@
 name: dartman_sensuikan1973
 version: 1.1.0
-description: The best analysis options and useful CI
+description: The best analysis options
 
 environment:
   sdk: '>=2.9.0-14.1.beta <3.0.0'
