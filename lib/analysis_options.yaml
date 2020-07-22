@@ -15,6 +15,7 @@ analyzer:
     - lib/**/*.freezed.dart
 
 linter:
+  # See: https://github.com/dart-lang/linter/releases
   # See: https://dart-lang.github.io/linter/lints/
   # See: https://github.com/dart-lang/linter/issues/1068
   rules:
