@@ -12,7 +12,7 @@ dev_dependencies:
   dartman_sensuikan1973:
     git:
       url: https://github.com/sensuikan1973/dartman_sensuikan1973
-      ref: 1.2.0
+      ref: 1.3.0
 ```
 
 ## Reference
