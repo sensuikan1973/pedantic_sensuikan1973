@@ -1,6 +1,6 @@
 name: pedantic_sensuikan1973
 version: 1.5.0
-description: strict analysis options
+description: This package supplies strict analysis options
 homepage: https://github.com/sensuikan1973/pedantic_sensuikan1973
 
 environment:
