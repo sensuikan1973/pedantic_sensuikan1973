@@ -1,7 +1,9 @@
+## 1.5.0
+- change sdk min version `'2.8.0'`
+
 ## 1.4.0
 - add CHANGELOG.md
 - add LICENSE
-- change sdk min version `'2.8.0'`
 
 ## 1.3.0
 - upgrade sdk min version `'>=2.9.0-21.10.beta <3.0.0'`
