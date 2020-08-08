@@ -4,4 +4,4 @@ description: strict analysis options
 homepage: https://github.com/sensuikan1973/pedantic_sensuikan1973
 
 environment:
-  sdk: '>=2.9.0-21.10.beta <3.0.0'
+  sdk: '>=2.9.0 <3.0.0'
