@@ -1,3 +1,6 @@
+## 1.7.0
+- add example
+
 ## 1.6.0
 - update README, pubspec meta
 
