@@ -1,3 +1,6 @@
+## 1.6.0
+- update README, pubspec meta
+
 ## 1.5.0
 - change sdk min version `'2.8.0'`
 
