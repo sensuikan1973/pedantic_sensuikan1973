@@ -21,7 +21,7 @@ linter:
   # See: https://github.com/dart-lang/linter/releases
   rules:
     - always_declare_return_types
-#    - always_put_control_body_on_new_line #  if() foo(); を許容したい
+#    - always_put_control_body_on_new_line # allow "if() foo();"
     - always_put_required_named_parameters_first
     - always_require_non_null_named_parameters
 #    - always_specify_types
@@ -81,7 +81,7 @@ linter:
     - empty_statements
     - exhaustive_cases
     - file_names
-#    - flutter_style_todos # todo 担当者の明記は別にいらない
+#    - flutter_style_todos
     - hash_and_equals
     - implementation_imports
     - invariant_booleans
@@ -90,7 +90,7 @@ linter:
     - leading_newlines_in_multiline_strings
     - library_names
     - library_prefixes
-#    - lines_longer_than_80_chars # 120 でいく
+#    - lines_longer_than_80_chars # if you choose 120 chars, run "dartfmt ./ -w -l 120"
     - list_remove_unrelated_type
     - literal_only_boolean_expressions
     - missing_whitespace_between_adjacent_strings
@@ -111,7 +111,7 @@ linter:
     - parameter_assignments
     - prefer_adjacent_string_concatenation
     - prefer_asserts_in_initializer_lists
-#    - prefer_asserts_with_message # assert の内容それ自体で意味が伝わるように書くのが一番。必要に応じて書けばいい。
+#    - prefer_asserts_with_message # As necessary, you do it. 
     - prefer_collection_literals
     - prefer_conditional_assignment
     - prefer_const_constructors
@@ -120,7 +120,7 @@ linter:
     - prefer_const_literals_to_create_immutables
     - prefer_constructors_over_static_methods
     - prefer_contains
-#    - prefer_double_quotes # prefer_single_quotes を採用したいのでオフ
+#    - prefer_double_quotes # choose "prefer_single_quotes"
     - prefer_equal_for_default_values
     - prefer_expression_function_bodies
     - prefer_final_fields
@@ -148,7 +148,7 @@ linter:
     - prefer_typing_uninitialized_variables
     - prefer_void_to_null
     - provide_deprecation_message
-#    - public_member_api_docs # 命名+引数で伝えるのを重要視。必要に応じて書く方針で。
+#    - public_member_api_docs # As necessary, you do it. 
     - recursive_getters
     - sized_box_for_whitespace
     - slash_for_doc_comments
@@ -164,7 +164,7 @@ linter:
     - unnecessary_await_in_return
     - unnecessary_brace_in_string_interps
     - unnecessary_const
-#    - unnecessary_final # prefer_final_locals を採用したいのでオフ
+#    - unnecessary_final # choose "prefer_final_locals
     - unnecessary_getters_setters
     - unnecessary_lambdas
     - unnecessary_new
