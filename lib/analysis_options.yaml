@@ -111,7 +111,7 @@ linter:
     - parameter_assignments
     - prefer_adjacent_string_concatenation
     - prefer_asserts_in_initializer_lists
-#    - prefer_asserts_with_message # As necessary, you do it. 
+#    - prefer_asserts_with_message # As necessary, you do it.
     - prefer_collection_literals
     - prefer_conditional_assignment
     - prefer_const_constructors
@@ -148,7 +148,7 @@ linter:
     - prefer_typing_uninitialized_variables
     - prefer_void_to_null
     - provide_deprecation_message
-#    - public_member_api_docs # As necessary, you do it. 
+#    - public_member_api_docs # As necessary, you do it.
     - recursive_getters
     - sized_box_for_whitespace
     - slash_for_doc_comments
@@ -168,6 +168,7 @@ linter:
     - unnecessary_getters_setters
     - unnecessary_lambdas
     - unnecessary_new
+    # - unnecessary_nullable_for_final_variable_declarations # NOTE: unreleased
     - unnecessary_null_aware_assignments
     - unnecessary_null_in_if_null_operators
     - unnecessary_overrides
@@ -183,6 +184,7 @@ linter:
     - use_function_type_syntax_for_parameters
     - use_is_even_rather_than_modulo
     - use_key_in_widget_constructors
+    # - use_late_for_private_fields_and_variables # NOTE: unreleased
     - use_raw_strings
     - use_rethrow_when_possible
     - use_setters_to_change_properties
