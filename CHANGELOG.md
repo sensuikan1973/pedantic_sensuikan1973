@@ -1,3 +1,7 @@
+## 1.8.0
+- add [`use_late_for_private_fields_and_variables`](https://dart-lang.github.io/linter/lints/use_late_for_private_fields_and_variables.html)
+- add [`unnecessary_nullable_for_final_variable_declarations`](https://dart-lang.github.io/linter/lints/unnecessary_nullable_for_final_variable_declarations.html)
+
 ## 1.7.0
 - add example
 
