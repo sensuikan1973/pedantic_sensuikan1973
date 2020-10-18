@@ -2,7 +2,7 @@ name: example
 description: example of pedantic_sensuikan1973 .
 version: 1.0.0
 environment:
-  sdk: ">=2.8.0 <3.0.0"
+  sdk: ">2.10.0 <3.0.0"
 dependencies:
   flutter:
     sdk: flutter
