@@ -1,3 +1,11 @@
+## 1.10.0
+- upgrade sdk min version
+- add [`avoid_type_to_string`](https://dart-lang.github.io/linter/lints/avoid_type_to_string.html)
+- add [`cast_nullable_to_non_nullable`](https://dart-lang.github.io/linter/lints/cast_nullable_to_non_nullable.html)
+- add [`null_check_on_nullable_type_parameter`](https://dart-lang.github.io/linter/lints/null_check_on_nullable_type_parameter.html)
+- add [`tighten_type_of_initializing_formals`](https://dart-lang.github.io/linter/lints/tighten_type_of_initializing_formals.html)
+- add [`unnecessary_null_checks`](https://dart-lang.github.io/linter/lints/unnecessary_null_checks.html)
+
 ## 1.9.0
 - upgrade sdk min version
 
