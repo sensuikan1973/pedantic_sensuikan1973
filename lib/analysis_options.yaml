@@ -13,6 +13,7 @@ analyzer:
     - lib/i18n/**
     - lib/**/*.g.dart
     - lib/**/*.freezed.dart
+    - lib/generated_*.dart
 
 linter:
   # See: https://github.com/dart-lang/linter/releases
