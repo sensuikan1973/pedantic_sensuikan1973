@@ -1,5 +1,5 @@
-# 1.11.0
-- upgrade sdk min version
+## 2.0.0
+- upgrade sdk min version with null safety
 - add [`avoid_dynamic_calls`](https://dart-lang.github.io/linter/lints/avoid_dynamic_calls.html)
 
 ## 1.10.0
