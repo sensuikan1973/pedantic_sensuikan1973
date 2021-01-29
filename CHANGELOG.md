@@ -1,3 +1,7 @@
+# 1.11.0
+- upgrade sdk min version
+- add [`avoid_dynamic_calls`](https://dart-lang.github.io/linter/lints/avoid_dynamic_calls.html)
+
 ## 1.10.0
 - upgrade sdk min version
 - add [`avoid_type_to_string`](https://dart-lang.github.io/linter/lints/avoid_type_to_string.html)
