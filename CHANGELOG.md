@@ -1,3 +1,9 @@
+## 2.1.0
+- add [`use_if_null_to_convert_nulls_to_bools`](https://dart-lang.github.io/linter/lints/use_if_null_to_convert_nulls_to_bools.html)
+- add [`deprecated_consistency`](https://dart-lang.github.io/linter/lints/deprecated_consistency.html)
+- add [`use_named_constants`](https://dart-lang.github.io/linter/lints/use_named_constants.html)
+- deprecation of [`avoid_as`](https://dart-lang.github.io/linter/lints/avoid_as.html)
+
 ## 2.0.0
 - upgrade sdk min version with null safety
 - add [`avoid_dynamic_calls`](https://dart-lang.github.io/linter/lints/avoid_dynamic_calls.html)
