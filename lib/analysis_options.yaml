@@ -42,7 +42,7 @@ linter:
     - avoid_implementing_value_types
     - avoid_init_to_null
     - avoid_js_rounded_ints
-    # - avoid_multiple_declarations_per_line # See: https://github.com/dart-lang/linter/releases/tag/1.1.0
+    - avoid_multiple_declarations_per_line
     - avoid_null_checks_in_equality_operators
     - avoid_positional_boolean_parameters
     - avoid_print
@@ -188,7 +188,7 @@ linter:
     - unnecessary_this
     - unrelated_type_equality_checks
     - unsafe_html
-    # - use_build_context_synchronously # See: https://github.com/dart-lang/linter/releases/tag/1.1.0
+    - use_build_context_synchronously
     - use_full_hex_values_for_flutter_colors
     - use_function_type_syntax_for_parameters
     - use_if_null_to_convert_nulls_to_bools
