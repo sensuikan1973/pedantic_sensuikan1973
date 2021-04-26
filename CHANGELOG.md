@@ -1,3 +1,7 @@
+## 2.2.0
+- add [`avoid_multiple_declarations_per_line`](https://dart-lang.github.io/linter/lints/avoid_multiple_declarations_per_line.html)
+- add [`use_build_context_synchronously`](https://dart-lang.github.io/linter/lints/use_build_context_synchronously.html)
+
 ## 2.1.0
 - add [`use_if_null_to_convert_nulls_to_bools`](https://dart-lang.github.io/linter/lints/use_if_null_to_convert_nulls_to_bools.html)
 - add [`deprecated_consistency`](https://dart-lang.github.io/linter/lints/deprecated_consistency.html)
