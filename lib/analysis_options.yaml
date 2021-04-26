@@ -147,6 +147,7 @@ linter:
     - prefer_is_not_operator
     - prefer_iterable_whereType
     - prefer_mixin
+    # - prefer_null_aware_method_calls # See: https://github.com/dart-lang/linter/releases/tag/1.3.0
     - prefer_null_aware_operators
     - prefer_relative_imports
     - prefer_single_quotes
@@ -156,6 +157,7 @@ linter:
     - provide_deprecation_message
 #    - public_member_api_docs # As necessary, you do it.
     - recursive_getters
+    # - require_trailing_commas # See: https://github.com/dart-lang/linter/releases/tag/1.3.0
     - sized_box_for_whitespace
     - slash_for_doc_comments
     - sort_child_properties_last
