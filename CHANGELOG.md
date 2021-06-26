@@ -1,4 +1,4 @@
-## 2.2.0
+## 2.3.0
 - add [`require_trailing_commas`](https://dart-lang.github.io/linter/lints/require_trailing_commas.html)
 - add [`prefer_null_aware_method_calls`](https://dart-lang.github.io/linter/lints/prefer_null_aware_method_calls.html)
 - add [`depend_on_referenced_packages`](https://dart-lang.github.io/linter/lints/depend_on_referenced_packages.html)
