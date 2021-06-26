@@ -1,4 +1,12 @@
 ## 2.2.0
+- add [`require_trailing_commas`](https://dart-lang.github.io/linter/lints/require_trailing_commas.html)
+- add [`prefer_null_aware_method_calls`](https://dart-lang.github.io/linter/lints/prefer_null_aware_method_calls.html)
+- add [`depend_on_referenced_packages`](https://dart-lang.github.io/linter/lints/depend_on_referenced_packages.html)
+- add [`use_test_throws_matchers`](https://dart-lang.github.io/linter/lints/use_test_throws_matchers.html)
+- add [`noop_primitive_operations`](https://dart-lang.github.io/linter/lints/noop_primitive_operations.html)
+- add [`prefer_final_parameters`](https://dart-lang.github.io/linter/lints/prefer_final_parameters.html)
+
+## 2.2.0
 - add [`avoid_multiple_declarations_per_line`](https://dart-lang.github.io/linter/lints/avoid_multiple_declarations_per_line.html)
 - add [`use_build_context_synchronously`](https://dart-lang.github.io/linter/lints/use_build_context_synchronously.html)
 
