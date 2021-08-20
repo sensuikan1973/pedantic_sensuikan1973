@@ -1,3 +1,6 @@
+## 2.4.0
+- add [`eol_at_end_of_file`](https://dart-lang.github.io/linter/lints/eol_at_end_of_file.html)
+
 ## 2.3.0
 - add [`require_trailing_commas`](https://dart-lang.github.io/linter/lints/require_trailing_commas.html)
 - add [`prefer_null_aware_method_calls`](https://dart-lang.github.io/linter/lints/prefer_null_aware_method_calls.html)
