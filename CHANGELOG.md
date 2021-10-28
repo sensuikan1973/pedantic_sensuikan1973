@@ -1,4 +1,4 @@
-## 2.4.0
+## 2.5.0
 - add [`unnecessary_constructor_name`](https://dart-lang.github.io/linter/lints/unnecessary_constructor_name.html)
 
 ## 2.4.0
