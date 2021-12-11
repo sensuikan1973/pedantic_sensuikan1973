@@ -1,5 +1,10 @@
+## 2.8.0
+- revert new lint of `2.6.0`, `2.7.0`
+
 ## 2.7.0
 - add [`conditional_uri_does_not_exist`](https://dart-lang.github.io/linter/lints/conditional_uri_does_not_exist.html)
+
+ref: https://github.com/dart-lang/linter/releases/tag/1.16.0
 
 ## 2.6.0
 - add [`use_decorated_box`](https://dart-lang.github.io/linter/lints/use_decorated_box.html)
