@@ -1,3 +1,14 @@
+## 2.9.0
+- add [`use_decorated_box`](https://dart-lang.github.io/linter/lints/use_decorated_box.html)
+- add [`no_leading_underscores_for_library_prefixes`](https://dart-lang.github.io/linter/lints/no_leading_underscores_for_library_prefixes.html)
+- add [`no_leading_underscores_for_local_identifiers`](https://dart-lang.github.io/linter/lints/no_leading_underscores_for_local_identifiers.html)
+- add [`secure_pubspec_urls`](https://dart-lang.github.io/linter/lints/secure_pubspec_urls.html)
+- add [`sized_box_shrink_expand`](https://dart-lang.github.io/linter/lints/sized_box_shrink_expand.html)
+- add [`avoid_final_parameters`](https://dart-lang.github.io/linter/lints/avoid_final_parameters.html)
+  - See: https://dart-lang.github.io/linter/lints/parameter_assignments.html
+
+ref: https://github.com/dart-lang/linter/releases/tag/1.15.0
+
 ## 2.8.0
 - revert new lint of `2.6.0`, `2.7.0`
 
