@@ -36,7 +36,6 @@ linter:
     - avoid_equals_and_hash_code_on_mutable_classes
     - avoid_escaping_inner_quotes
     - avoid_field_initializers_in_const_classes
-    # - avoid_final_parameters # TODO: publish. https://github.com/dart-lang/linter/releases/tag/1.15.0
     - avoid_function_literals_in_foreach_calls
     - avoid_implementing_value_types
     - avoid_init_to_null
@@ -209,10 +208,11 @@ linter:
     - use_to_and_as_if_applicable
     - valid_regexps
     - void_checks
-    # - prefer_final_parameters
+#    - avoid_final_parameters
+#    - prefer_final_parameters
 #    - always_put_control_body_on_new_line # allow "if() foo();"
-#    - always_specify_types
-#    - flutter_style_todos
+#    - always_specify_types # overdoing
+#    - flutter_style_todos # I don't need user name.
 #    - lines_longer_than_80_chars # if you choose 120 chars, run "dartfmt ./ -w -l 120"
 #    - prefer_asserts_with_message # As necessary, you do it.
 #    - prefer_double_quotes # choose "prefer_single_quotes"
