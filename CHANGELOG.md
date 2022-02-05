@@ -1,3 +1,6 @@
+## 3.0.0
+- add [`conditional_uri_does_not_exist`](https://dart-lang.github.io/linter/lints/conditional_uri_does_not_exist.html)
+
 ## 2.9.0
 - add [`use_decorated_box`](https://dart-lang.github.io/linter/lints/use_decorated_box.html)
 - add [`no_leading_underscores_for_library_prefixes`](https://dart-lang.github.io/linter/lints/no_leading_underscores_for_library_prefixes.html)
