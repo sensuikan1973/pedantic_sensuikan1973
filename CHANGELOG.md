@@ -1,3 +1,6 @@
+## 3.1.0
+- add [`unnecessary_late`](https://dart-lang.github.io/linter/lints/unnecessary_late.html)
+
 ## 3.0.0
 - add [`conditional_uri_does_not_exist`](https://dart-lang.github.io/linter/lints/conditional_uri_does_not_exist.html)
 
