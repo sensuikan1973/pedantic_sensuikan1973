@@ -1,3 +1,10 @@
+## 3.2.0
+- add [user_super_initializers](https://dart-lang.github.io/linter/lints/user_super_initializers.html)
+- add [used_colored_box](https://dart-lang.github.io/linter/lints/used_colored_box.html)
+- add [use_enums](https://dart-lang.github.io/linter/lints/use_enums.html)
+
+See: https://github.com/dart-lang/linter/releases/tag/1.19.0
+
 ## 3.1.0
 - add [`unnecessary_late`](https://dart-lang.github.io/linter/lints/unnecessary_late.html)
 
