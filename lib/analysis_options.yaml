@@ -208,8 +208,8 @@ linter:
     - use_string_buffers
     - use_test_throws_matchers
     - use_to_and_as_if_applicable
-    # - used_colored_box # TODO: publish. See: https://github.com/dart-lang/linter/releases/tag/1.19.0
-    # - user_super_initializers # TODO: publish. See: https://github.com/dart-lang/linter/releases/tag/1.19.0
+    # - use_colored_box # TODO: publish. See: https://github.com/dart-lang/linter/releases/tag/1.19.0
+    # - use_super_parameters # TODO: publish. See: https://github.com/dart-lang/linter/releases/tag/1.19.0
     - valid_regexps
     - void_checks
 #    - avoid_final_parameters
