@@ -3,7 +3,7 @@ description: example of pedantic_sensuikan1973 .
 version: 1.0.0
 publish_to: none
 environment:
-  sdk: ">=2.16.1 <3.0.0"
+  sdk: ">=2.16.2 <3.0.0"
 dependencies:
   meta: ^1.7.0
   pedantic_sensuikan1973:
