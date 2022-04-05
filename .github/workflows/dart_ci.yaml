@@ -16,7 +16,7 @@ on:
       - '.github/workflows/dart_ci.yaml'
 
 jobs:
-  analyze:
+  dart_analyze:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
