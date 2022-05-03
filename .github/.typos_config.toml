@@ -4,4 +4,4 @@
 # extend-exclude = ["foo/**/*"]
 
 [default.extend-words]
-iterm = "iterm"
+# foo = "foo"
