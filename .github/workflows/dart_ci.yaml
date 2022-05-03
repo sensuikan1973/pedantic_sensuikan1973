@@ -20,9 +20,9 @@ jobs:
   dart_analyze:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: dart-lang/setup-dart@v1
-    - name: install dependencies
-      run: dart pub get
-    - name: analyzer
-      run: dart analyze --fatal-infos --fatal-warnings .
+      - uses: actions/checkout@v3
+      - uses: dart-lang/setup-dart@v1
+      - name: install dependencies
+        run: dart pub get
+      - name: analyzer
+        run: dart analyze --fatal-infos --fatal-warnings .
