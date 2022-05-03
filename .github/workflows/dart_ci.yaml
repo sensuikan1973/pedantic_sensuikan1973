@@ -9,7 +9,8 @@ on:
       - 'analysis_options.yaml'
       - '.github/workflows/dart_ci.yaml'
   push:
-    branches: [ main ]
+    branches:
+      - main
     paths:
       - '**.dart'
       - 'pubspec.*'
