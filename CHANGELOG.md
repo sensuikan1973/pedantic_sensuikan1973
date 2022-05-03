@@ -111,4 +111,4 @@ ref: https://github.com/dart-lang/linter/releases/tag/1.15.0
 - upgrade sdk min version `'>=2.9.0-14.1.beta <3.0.0'`
 
 ## 1.0.0
-- First relase
+- First release
