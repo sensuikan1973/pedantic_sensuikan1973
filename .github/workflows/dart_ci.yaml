@@ -9,6 +9,14 @@ on:
   workflow_dispatch:
 
 jobs:
+  dart_format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dart-lang/setup-dart@v1
+      - name: dart format
+        run: dart format ./ -l 120 --set-exit-if-changed
+
   dart_analyze:
     runs-on: ubuntu-latest
     steps:
@@ -18,3 +26,10 @@ jobs:
         run: dart pub get
       - name: analyzer
         run: dart analyze --fatal-infos --fatal-warnings .
+
+  dart_run_example:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dart-lang/setup-dart@v1
+      - run: dart example/main.dart
