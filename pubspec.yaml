@@ -1,8 +1,8 @@
 ---
 name: pedantic_sensuikan1973
-version: 3.2.0
+version: 3.3.0
 description: The best Dart analyzer settings are used. sensuikan1973 edition.
 homepage: https://github.com/sensuikan1973/pedantic_sensuikan1973
 
 environment:
-  sdk: '>=2.16.2 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
