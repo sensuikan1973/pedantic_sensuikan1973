@@ -1,8 +1,9 @@
 ## 3.3.0
 
 - add [`unnecessary_null_aware_operator_on_extension_on_nullable`](https://dart-lang.github.io/linter/lints/unnecessary_null_aware_operator_on_extension_on_nullable.html)
+- add [`discarded_futures`](https://dart-lang.github.io/linter/lints/discarded_futures.html)
 
-ref: https://github.com/dart-lang/linter/releases/tag/1.24.0
+ref: https://github.com/dart-lang/linter/releases/tag/1.24.0 , https://github.com/dart-lang/linter/releases/tag/1.25.0
 
 ## 3.2.0
 
