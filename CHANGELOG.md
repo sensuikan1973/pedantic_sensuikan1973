@@ -1,3 +1,9 @@
+## 3.4.0
+
+- add [`combinators_ordering`](https://dart-lang.github.io/linter/lints/combinators_ordering.html)
+
+ref: https://github.com/dart-lang/linter/releases/tag/1.26.0
+
 ## 3.3.0
 
 - add [`unnecessary_null_aware_operator_on_extension_on_nullable`](https://dart-lang.github.io/linter/lints/unnecessary_null_aware_operator_on_extension_on_nullable.html)
