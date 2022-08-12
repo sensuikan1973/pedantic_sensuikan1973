@@ -1,3 +1,9 @@
+## 3.5.0
+
+- add [`use_string_in_part_of_directives`](https://dart-lang.github.io/linter/lints/use_string_in_part_of_directives.html)
+
+ref: https://github.com/dart-lang/linter/releases/tag/1.27.0
+
 ## 3.4.0
 
 - add [`combinators_ordering`](https://dart-lang.github.io/linter/lints/combinators_ordering.html)
