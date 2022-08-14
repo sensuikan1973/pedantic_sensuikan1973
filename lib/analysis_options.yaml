@@ -7,7 +7,7 @@ analyzer:
     strict-casts: true
     strict-inference: true
     strict-raw-types: true
-  # https://github.com/dart-lang/sdk/blob/main/pkg/analyzer/lib/error/error.dart
+  # https://github.com/dart-lang/sdk/blob/stable/pkg/analyzer/lib/error/error.dart
   errors:
     todo: ignore
     missing_required_param: error
