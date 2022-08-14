@@ -3,14 +3,15 @@ analyzer:
   strong-mode:
     implicit-casts: false
     implicit-dynamic: false
-  errors:
-    todo: ignore
-    missing_required_param: error
-    missing_return: error
   language:
     strict-casts: true
     strict-inference: true
     strict-raw-types: true
+  # https://github.com/dart-lang/sdk/blob/main/pkg/analyzer/lib/error/error.dart
+  errors:
+    todo: ignore
+    missing_required_param: error
+    missing_return: error
 
   # See: https://github.com/dart-lang/sdk/issues/25551#issuecomment-608501698
   # See: https://github.com/dart-lang/sdk/issues/34098
