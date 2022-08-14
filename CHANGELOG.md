@@ -1,3 +1,7 @@
+## 3.4.0
+
+- add `must_be_immutable` to errors.
+
 ## 3.3.0
 
 - enable `strict-casts`, `strict-inference`, `strict-raw-types`
