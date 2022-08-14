@@ -10,9 +10,11 @@ analyzer:
   # https://dart.dev/guides/language/analysis-options#customizing-analysis-rules
   # https://github.com/dart-lang/sdk/blob/stable/pkg/analyzer/lib/error/error.dart
   errors:
-    todo: ignore
+    # HintCode
     missing_required_param: error
     missing_return: error
+    # TodoCode
+    todo: ignore
 
   # See: https://github.com/dart-lang/sdk/issues/25551#issuecomment-608501698
   # See: https://github.com/dart-lang/sdk/issues/34098
