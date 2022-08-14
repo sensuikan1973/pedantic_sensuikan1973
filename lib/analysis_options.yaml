@@ -9,10 +9,12 @@ analyzer:
     strict-raw-types: true
   # https://dart.dev/guides/language/analysis-options#customizing-analysis-rules
   # https://github.com/dart-lang/sdk/blob/stable/pkg/analyzer/lib/error/error.dart
+  # https://dart.dev/tools/diagnostic-messages
   errors:
     # HintCode
     missing_required_param: error
     missing_return: error
+    must_be_immutable: error
     # TodoCode
     todo: ignore
 
