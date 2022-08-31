@@ -1,3 +1,12 @@
+## 3.5.0
+
+- add [`unnecessary_to_list_in_spreads`](https://dart-lang.github.io/linter/lints/unnecessary_to_list_in_spreads.html)
+- add [`unnecessary_null_aware_operator_on_extension_on_nullable`](https://dart-lang.github.io/linter/lints/unnecessary_null_aware_operator_on_extension_on_nullable.html)
+- add [`discarded_futures`](https://dart-lang.github.io/linter/lints/discarded_futures.html)
+
+See: https://github.com/dart-lang/linter/releases/tag/1.24.0
+See: https://github.com/dart-lang/linter/releases/tag/1.25.0
+
 ## 3.4.0
 
 - add `must_be_immutable` to errors.
