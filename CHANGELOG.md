@@ -4,8 +4,8 @@
 - add [`unnecessary_null_aware_operator_on_extension_on_nullable`](https://dart-lang.github.io/linter/lints/unnecessary_null_aware_operator_on_extension_on_nullable.html)
 - add [`discarded_futures`](https://dart-lang.github.io/linter/lints/discarded_futures.html)
 
-See: https://github.com/dart-lang/linter/releases/tag/1.24.0
-See: https://github.com/dart-lang/linter/releases/tag/1.25.0
+ref: https://github.com/dart-lang/linter/releases/tag/1.24.0  
+ref: https://github.com/dart-lang/linter/releases/tag/1.25.0
 
 ## 3.4.0
 
@@ -23,7 +23,7 @@ ref: https://dart.dev/guides/language/analysis-options
 - add [`used_colored_box`](https://dart-lang.github.io/linter/lints/used_colored_box.html)
 - add [`use_enums`](https://dart-lang.github.io/linter/lints/use_enums.html)
 
-See: https://github.com/dart-lang/linter/releases/tag/1.19.0
+ref: https://github.com/dart-lang/linter/releases/tag/1.19.0
 
 ## 3.1.0
 
@@ -41,7 +41,7 @@ See: https://github.com/dart-lang/linter/releases/tag/1.19.0
 - add [`secure_pubspec_urls`](https://dart-lang.github.io/linter/lints/secure_pubspec_urls.html)
 - add [`sized_box_shrink_expand`](https://dart-lang.github.io/linter/lints/sized_box_shrink_expand.html)
 - add [`avoid_final_parameters`](https://dart-lang.github.io/linter/lints/avoid_final_parameters.html)
-  - See: https://dart-lang.github.io/linter/lints/parameter_assignments.html
+  - ref: https://dart-lang.github.io/linter/lints/parameter_assignments.html
 
 ref: https://github.com/dart-lang/linter/releases/tag/1.15.0
 
@@ -63,7 +63,7 @@ ref: https://github.com/dart-lang/linter/releases/tag/1.16.0
 - add [`secure_pubspec_urls`](https://dart-lang.github.io/linter/lints/secure_pubspec_urls.html)
 - add [`sized_box_shrink_expand`](https://dart-lang.github.io/linter/lints/sized_box_shrink_expand.html)
 - add [`avoid_final_parameters`](https://dart-lang.github.io/linter/lints/avoid_final_parameters.html)
-  - See: https://dart-lang.github.io/linter/lints/parameter_assignments.html
+  - ref: https://dart-lang.github.io/linter/lints/parameter_assignments.html
 
 ref: https://github.com/dart-lang/linter/releases/tag/1.15.0
 
