@@ -1,3 +1,8 @@
+## 3.6.0
+
+- remove deprecated rules.
+  - [`invariant_booleans`](https://dart-lang.github.io/linter/lints/invariant_booleans.html)
+
 ## 3.5.0
 
 - add [`unnecessary_to_list_in_spreads`](https://dart-lang.github.io/linter/lints/unnecessary_to_list_in_spreads.html)
