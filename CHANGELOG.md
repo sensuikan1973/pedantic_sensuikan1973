@@ -1,3 +1,7 @@
+## 4.0.1
+
+fix dependencies scope.
+
 ## 4.0.0
 
 use [flutter_lints](https://pub.dev/packages/flutter_lints).  
