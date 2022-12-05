@@ -1,3 +1,8 @@
+## 4.0.0
+
+use [flutter_lints](https://pub.dev/packages/flutter_lints).  
+See: https://dart.dev/tools/linter-rules
+
 ## 3.6.0
 
 - remove deprecated rules.
