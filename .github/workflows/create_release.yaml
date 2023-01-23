@@ -22,7 +22,7 @@ jobs:
       - uses: dart-lang/setup-dart@v1
 
       - name: inject current version
-        run: echo "CURRENT_VERSION=$(dart pub run cider version)" >> $GITHUB_ENV
+        run: echo "CURRENT_VERSION=$(dart run cider version)" >> $GITHUB_ENV
 
       - uses: softprops/action-gh-release@v1
         env:
