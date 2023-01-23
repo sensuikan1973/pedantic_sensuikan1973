@@ -13,13 +13,12 @@ jobs:
     if: ${{ github.head_ref == 'prepare_for_release' && github.event.pull_request.merged == true }}
     env:
       RELEASE_DESCRIPTION_TXT_FILE: release_description.txt
-    runs-on: ${{ matrix.os }}
-    timeout-minutes: 10
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v3
-      
+
       - uses: dart-lang/setup-dart@v1
 
       - name: inject current version
