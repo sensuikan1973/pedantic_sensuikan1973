@@ -29,5 +29,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           tag_name: ${{ env.CURRENT_VERSION }}
-          files: ${{ env.PUBLISH_DIR }}/${{ runner.os }}.zip
           generate_release_notes: true
