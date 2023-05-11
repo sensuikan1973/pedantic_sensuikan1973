@@ -1,3 +1,7 @@
+# 5.0.0
+
+follow Dart 3
+
 # 4.4.0
 
 loose Dart SDK limitations 
