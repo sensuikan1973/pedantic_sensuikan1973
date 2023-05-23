@@ -5,7 +5,7 @@ description: The best Dart analyzer settings are used. sensuikan1973 edition.
 homepage: https://github.com/sensuikan1973/pedantic_sensuikan1973
 
 environment:
-  sdk: '>=2.19.6 <4.0.0'
+  sdk: '>=3.0.1 <4.0.0'
 dependencies:
   flutter_lints: ^2.0.1
 dev_dependencies:
