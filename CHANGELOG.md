@@ -1,3 +1,7 @@
+# 5.3.0
+
+upgrade dependencies.
+
 # 5.2.0
 
 bump Dart SDK min version
