@@ -7,6 +7,6 @@ homepage: https://github.com/sensuikan1973/pedantic_sensuikan1973
 environment:
   sdk: '>=3.0.3 <4.0.0'
 dependencies:
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.0
 dev_dependencies:
   cider: ^0.2.1
