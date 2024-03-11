@@ -24,7 +24,7 @@ jobs:
       - name: inject current version
         run: echo "CURRENT_VERSION=$(dart run cider version)" >> $GITHUB_ENV
 
-      - uses: softprops/action-gh-release@v1
+      - uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
