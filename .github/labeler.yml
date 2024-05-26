@@ -1,6 +1,8 @@
 ---
 GitHub Actions:
-  - .github/workflows/**/*
-  - .github/dependabot.yml
-  - .github/labeler.yml
-  - .github/.typos_config.toml
+  - changed-files:
+    - any-glob-to-any-file:
+      - .github/workflows/**/*
+      - .github/dependabot.yml
+      - .github/labeler.yml
+      - .github/.typos_config.toml
