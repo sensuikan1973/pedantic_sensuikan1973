@@ -20,7 +20,7 @@ follow Dart 3
 
 # 4.4.0
 
-loose Dart SDK limitations 
+loose Dart SDK limitations
 
 # 4.3.0
 
