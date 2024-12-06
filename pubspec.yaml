@@ -9,4 +9,4 @@ environment:
 dependencies:
   flutter_lints: ^5.0.0
 dev_dependencies:
-  cider: ^0.2.7
+  cider: ^0.2.8
