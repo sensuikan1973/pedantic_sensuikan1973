@@ -6,6 +6,6 @@ publish_to: none
 environment:
   sdk: '>=3.4.0 <4.0.0'
 dependencies:
-  meta: ^1.15.0
+  meta: ^1.16.0
   pedantic_sensuikan1973:
     path: ..
