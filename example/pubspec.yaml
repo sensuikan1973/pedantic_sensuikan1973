@@ -4,7 +4,7 @@ description: example of pedantic_sensuikan1973.
 version: 1.0.0
 publish_to: none
 environment:
-  sdk: '>=3.7.0 <4.0.0'
+  sdk: '>=3.8.0 <4.0.0'
 dependencies:
   meta: ^1.17.0
   pedantic_sensuikan1973:
