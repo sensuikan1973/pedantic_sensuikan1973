@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: dart-lang/setup-dart@v1.7.2
+      - uses: dart-lang/setup-dart@v1.8.0
 
       - name: inject current version
         run: echo "CURRENT_VERSION=$(dart pub deps --style compact | grep "pedantic_sensuikan1973" | cut -c 24-)" >> $GITHUB_ENV
